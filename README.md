@@ -10,7 +10,7 @@ O planejamento das atividades no contexto deste projeto de iniciação científi
 | Outubro/2024      | Módulo investigativo, procurar por referências teóricas                      |
 | Novembro/2024     | Módulo investigativo técnico e exploratório, procurar por referências teóricas e iniciar implementação das POCs |
 | Dezembro/2024     | Módulo técnico e exploratório, continuar implementação das POCs              |
-| Janeiro/2025      |                                                                               |
+| Janeiro/2025      | Modulo de escrita, inicio da escrita do relatório final                      |
 | Fevereiro/2025    |                                                                               |
 | Março/2025        |                                                                               |
 | Abril/2025        |                                                                               |
