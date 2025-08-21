@@ -55,7 +55,7 @@ Destaca-se, ainda, a aplicação do **Design Pattern Observer**, que estabelece 
 ---
 
 **Figura 4**: Diagrama de classes final.  
-
+![Diagrama de Classes](DiagramadeclassesV4.PNG)
 Fonte: Autor.  
 
 ---
