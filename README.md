@@ -11,14 +11,14 @@ O planejamento das atividades no contexto deste projeto de iniciação científi
 | Novembro/2024     | Módulo investigativo técnico e exploratório, procurar por referências teóricas e iniciar implementação das POCs |
 | Dezembro/2024     | Módulo técnico e exploratório, continuar implementação das POCs              |
 | Janeiro/2025      | Modulo de escrita, inicio da escrita do relatório final                      |
-| Fevereiro/2025    |                                                                               |
-| Março/2025        |                                                                               |
-| Abril/2025        |                                                                               |
-| Maio/2025         |                                                                               |
-| Junho/2025        |                                                                               |
-| Julho/2025        |                                                                               |
-| Agosto/2025       |                                                                               |
-| Setembro/2025     |                                                                               |
+| Fevereiro/2025    | Modulo de escrita, escrita do relatório final                                                                              |
+| Março/2025        | Modulo de escrita, escrita do relatório final                                                                              |
+| Abril/2025        | Modulo de escrita, escrita do relatório final                                                                              |
+| Maio/2025         | Modulo de escrita, finalização da escrita do relatório final                                                                              |
+| Junho/2025        | Modulo de escrita, inicio da escrita do resumo                                                                              |
+| Julho/2025        | Modulo de escrita, finalização da escrita do resumo                                                                              |
+| Agosto/2025       | Modulo de escrita, revisões finais e entrega                                                                              |
+| Setembro/2025     | Apresentação                                                                              |
 
 _Tabela 1: Cronograma de atividades do projeto. Fonte: autor._
 
@@ -55,7 +55,7 @@ Destaca-se, ainda, a aplicação do **Design Pattern Observer**, que estabelece 
 ---
 
 **Figura 4**: Diagrama de classes final.  
-![Diagrama de Classes](DiagramadeclassesV4.PNG)
+![Diagrama de Classes](DiagramadeclassesV4.png)
 Fonte: Autor.  
 
 ---
